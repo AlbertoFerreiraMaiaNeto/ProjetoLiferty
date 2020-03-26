@@ -1,0 +1,15 @@
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\bin\Debug\ProjetoLifety.exe.config
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\bin\Debug\ProjetoLifety.exe
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\bin\Debug\ProjetoLifety.pdb
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.csprojAssemblyReference.cache
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.Form1.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.Properties.Resources.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.csproj.GenerateResource.cache
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.exe
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.pdb
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.Navegacao.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.Form_Cadastrar.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.listarPacientes.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.novoPaciente.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.listarConsultas.resources
+C:\Users\Neto\source\repos\ProjetoLifety\ProjetoLifety\obj\Debug\ProjetoLifety.novaConsulta.resources
